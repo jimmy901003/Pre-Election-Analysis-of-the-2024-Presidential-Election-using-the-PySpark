@@ -6,6 +6,8 @@
 
 本專案使用現成爬蟲以及的資料科學工具和套件,對 PTT 特定期間內的評論數據進行處理和分析。我們主要關注的是評論中的情緒分佈以及這些情緒對大選結果的影響。
 
+📃 **專案簡報**: [https://www.canva.com/design/DAGCWn8-Xrg/m3hT59c5YXgjGPTGw_wgSg/edit](https://www.canva.com/design/DAGCWn8-Xrg/m3hT59c5YXgjGPTGw_wgSg/edit?utm_content=DAGCWn8-Xrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 🛠️ 使用技術
 
 - **Pyspark**: 用於數據處理,包括數據清理、轉換等,以確保數據的質量和可用性。
